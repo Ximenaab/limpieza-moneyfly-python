@@ -1,14 +1,14 @@
 id_usuario,nombre_usuario,total_gastado,promedio_gasto,cantidad_gastos,segmento
-101,Ana,68000.0,22666.666666666668,3,Alto Gasto
-108,Pedro,30000.0,30000.0,1,Alto Gasto
-109,Maria,28000.0,28000.0,1,Alto Gasto
-105,Anonimo,20000.0,20000.0,1,Alto Gasto
-104,Juan,15000.0,15000.0,1,Gasto Regular
-110,Andres,15000.0,15000.0,1,Gasto Regular
-102,Luis,12000.0,12000.0,1,Gasto Regular
-107,Laura,11000.0,11000.0,1,Gasto Regular
-103,Sara,9000.0,9000.0,1,Gasto Regular
-112,Anonimo,8000.0,8000.0,1,Gasto Regular
-106,Carlos,0.0,0.0,1,Gasto Regular
-111,Camila,0.0,0.0,1,Gasto Regular
-113,Luisa,0.0,0.0,1,Gasto Regular
+101,Ana,68000.00,22666.67,3,Alto Gasto
+108,Pedro,30000.00,30000.00,1,Alto Gasto
+109,Maria,28000.00,28000.00,1,Alto Gasto
+105,Anonimo,20000.00,20000.00,1,Alto Gasto
+104,Juan,15000.00,15000.00,1,Gasto Regular
+110,Andres,15000.00,15000.00,1,Gasto Regular
+102,Luis,12000.00,12000.00,1,Gasto Regular
+107,Laura,11000.00,11000.00,1,Gasto Regular
+103,Sara,9000.00,9000.00,1,Gasto Regular
+112,Anonimo,8000.00,8000.00,1,Gasto Regular
+106,Carlos,0.00,0.00,1,Gasto Regular
+111,Camila,0.00,0.00,1,Gasto Regular
+113,Luisa,0.00,0.00,1,Gasto Regular
