@@ -1,0 +1,16 @@
+id_gasto,id_usuario,nombre_usuario,categoria,comercio,metodo_pago,valor,fecha
+1,101,Ana,Comida,D1,Efectivo,25000.0,2026-10-04
+2,102,Luis,Transporte,Metro,Tarjeta,12000.0,2026-10-04
+3,101,Ana,Comida,D1,Efectivo,18000.0,2026-11-04
+4,103,Sara,Antojos,Oxxo,Transferencia,9000.0,2026-11-04
+5,104,Juan,Comida,D1,Efectivo,15000.0,2026-12-04
+6,105,Anonimo,Comida,D1,Efectivo,20000.0,2026-12-04
+7,101,Ana,Comida,D1,Efectivo,25000.0,2026-10-04
+8,106,Carlos,Transporte,Metro,Tarjeta,0.0,2026-01-01
+9,107,Laura,Antojos,Oxxo,Transferencia,11000.0,2026-01-01
+10,108,Pedro,Sin Categoria,Exito,Efectivo,30000.0,2026-01-01
+11,109,Maria,Comida,No Registrado,Tarjeta,28000.0,2026-01-01
+12,110,Andres,Antojos,Oxxo,No Registrado,15000.0,2026-01-01
+13,111,Camila,Comida,D1,Efectivo,0.0,2026-01-01
+14,112,Anonimo,Transporte,Metro,Tarjeta,8000.0,2026-01-01
+15,113,Luisa,Comida,D1,Efectivo,0.0,2026-01-01
